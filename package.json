@@ -1,6 +1,6 @@
 {
   "name": "@hexlet/code",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "[![Actions Status](https://github.com/ELVIG17/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/ELVIG17/frontend-project-44/actions)",
   "main": "index.js",
   "type": "module",
@@ -20,5 +20,8 @@
     "url": "Owner avatar"
   },
   "author": "elvig",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
